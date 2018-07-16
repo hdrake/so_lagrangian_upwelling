@@ -8,7 +8,7 @@ In this paper we study upwelling pathways and timescales of Circumpolar Deep Wat
 # Code index
 Note: the code uploaded here is a slightly older version of the code than that used in the final version of the paper so the formatting of the figures may be different but the data analysis is identical.
 
-`Sfig2_Residual_Overturning_Streamfunction.py` - Code for producing Figure S1
+`Sfig2_Residual_Overturning_Streamfunction.py` - Code for producing Figure S1 \newline
 `globe_trajectories.py` - Code for producing Movie S1
 `make_all_figures.py` - Code for producing Figures 1, 2
 `make_supplementary_figures.py` - Code for producing Figures S3, S4, S5, S6, S7
