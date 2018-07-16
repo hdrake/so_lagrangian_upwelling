@@ -1,5 +1,5 @@
 # so_lagrangian_upwelling
-This repository contains codes and links to data for "[Lagrangian Timescales of Southern Ocean Upwelling in a Hierarchy of Model Resolutions](http://rdcu.be/FZij)" by Henri F. Drake, Adele K. Morrison, Stephen M. Griﬃes, Jorge L. Sarmiento, Wilbert Weijer, and Alison R. Gray. An index of the codes and data used is available in Text S3 of the Supplementary Materials.
+This repository contains codes and links to data for "[Lagrangian Timescales of Southern Ocean Upwelling in a Hierarchy of Model Resolutions](http://rdcu.be/FZij)" by Henri F. Drake, Adele K. Morrison, Stephen M. Griﬃes, Jorge L. Sarmiento, Wilbert Weijer, and Alison R. Gray.
 
 # Abstract
 
